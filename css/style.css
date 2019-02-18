@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +18,18 @@ body {
 }
 
 /* Write all remaining styles here */
+
+.wrapper {background-color: 244, 235, 233;}
+
+h2 {color: grey;}
+
+h1 {color:grey;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 33pt}
+
+img {border: 2pt solid grey;}
+
+footer {text-align:right;
+				font-size: smaller;}
+
+.link:hover {border: 2pt solid black;}
